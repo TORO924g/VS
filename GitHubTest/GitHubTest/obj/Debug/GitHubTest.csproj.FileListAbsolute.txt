@@ -7,3 +7,6 @@ c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\obj\D
 c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csproj.GenerateResource.Cache
 c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\obj\Debug\GitHubTest.exe
 c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\obj\Debug\GitHubTest.pdb
+D:\VS\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe.config
+D:\VS\GitHubTest\GitHubTest\obj\Debug\GitHubTest.exe
+D:\VS\GitHubTest\GitHubTest\obj\Debug\GitHubTest.pdb
