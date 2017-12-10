@@ -1,0 +1,9 @@
+c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe.config
+c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe
+c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\bin\Debug\GitHubTest.pdb
+c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csprojResolveAssemblyReference.cache
+c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\obj\Debug\GitHubTest.Form1.resources
+c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\obj\Debug\GitHubTest.Properties.Resources.resources
+c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csproj.GenerateResource.Cache
+c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\obj\Debug\GitHubTest.exe
+c:\users\wayne\documents\visual studio 2013\Projects\GitHubTest\GitHubTest\obj\Debug\GitHubTest.pdb
